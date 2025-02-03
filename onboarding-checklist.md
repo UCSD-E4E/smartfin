@@ -3,6 +3,7 @@
 - [ ] Add to [Github Team](https://github.com/orgs/UCSD-E4E/teams/smartfin)
 - [ ] Add to [Slack](https://ucsde4e.slack.com/archives/CE439BTD0)
 - [ ] Add to [Google Group](https://groups.google.com/a/ucsd.edu/g/e4e-smartfin-g)
+- [ ] Add to [People Tracker](https://docs.google.com/spreadsheets/d/1ishdOeajlDnip528YvkIABbuJTjE8f_SvMO_zPgWQI8/edit?usp=sharing)
 
 # Hardware Team
 - [ ] Provision Solidworks (https://support.ucsd.edu/its?id=sc_cat_item&sys_id=9aea705b1bc7985006f292c8af4bcb76)
