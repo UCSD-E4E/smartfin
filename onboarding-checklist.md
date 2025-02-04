@@ -14,3 +14,4 @@
 
 # Firmware Team
 - [ ] Provision Particle access (https://console.particle.io/smartfin-v3-21900/team)
+- [ ] Initial work (https://github.com/UCSD-E4E/smartfin-fw3/blob/main/CONTRIBUTING.md#your-first-code-contribution)
